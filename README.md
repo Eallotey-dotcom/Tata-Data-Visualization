@@ -8,3 +8,5 @@ Using Tableau, I built a series of dashboards to answer real-world business ques
 👥 Customer Insight: Ranking the top 10 customers by revenue to help retain high-value clients.
 
 🛒 Demand Insight: Identifying regions with the greatest product demand to uncover expansion opportunities.
+
+I used Tableau for the visualization. 
